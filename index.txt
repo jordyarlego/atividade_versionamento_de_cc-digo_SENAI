@@ -26,3 +26,5 @@ realizar seguinte alteração na linha h1 do arquivo da branch feature1:
 </HTML>
 realizar o merge da branch feature1 com a branch main;
 resolver os conflitos apresentados.
+
+vou mudar pra comentar kkkkkkkk
